@@ -72,3 +72,43 @@ margin-right: 50px;
   border-radius:7px;
 
 }
+
+
+.second-section{
+  text-align: center;
+  padding-top:50px ;
+}
+
+.second-section h2{
+  font-size: 36px;
+  font-weight: 900;
+  margin-bottom: 60px;
+}
+
+.info-container{
+  display: flex;
+ justify-content: center;
+ align-items: baseline;
+ gap: 50px;
+ margin-bottom: 200PX;
+}
+
+.images-container img{
+  width: 180px;
+  height: 180px;
+  border: #3882F6 4px solid;
+  border-radius: 20px;
+}
+
+.images-container p{
+  font-size: 18px;
+  color: #5c5a5a ;
+  width: 170px;
+  align-self:center ;
+  margin-top: 5PX;
+}
+
+.images-container {
+display: flex;
+flex-direction: column;
+}
