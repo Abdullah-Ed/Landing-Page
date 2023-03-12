@@ -137,3 +137,33 @@ cite{
   font-size: 28px;
   font-weight: bold;
 }
+
+.fourth-section{
+  padding-top: 130px;
+  padding-bottom:130px ;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.sign-up-container{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background-color: #3882F6;
+  color: #E5E7EB;
+  width: 1000px;
+  padding-top: 40px ;
+  padding-bottom: 40px;
+}
+
+.sign-up-container button{
+background-color: #3882F6;
+color: #E5E7EB;
+border: #E5E7EB 3px solid;
+font-size: 1em;
+font-weight: bold;
+padding: 7px 30px;
+border-radius: 10px;
+}
+
