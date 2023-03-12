@@ -167,3 +167,10 @@ padding: 7px 30px;
 border-radius: 10px;
 }
 
+.footer{
+  text-align: center;
+  background-color: #1f2937;
+  color: #E5E7EB;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
